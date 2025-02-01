@@ -1,11 +1,11 @@
-# NWS-Class-VII
+# NWS-Class-VII<br>
 
-#Projects:
-1Group 1: link
+#Projects:<br>
+1Group 1: link<br>
 
-# Document Format:
--Aim
--Materials Required
--Working
--Digram
-etc
+# Document Format:<br>
+-Aim<br>
+-Materials Required<br>
+-Working<br>
+-Digram<br>
+etc<br>
